@@ -1,0 +1,27 @@
+.completato {
+    text-decoration: line-through;
+}
+
+body{
+    text-align: center;
+    width: 100vw;
+    background-color: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1{
+    font-weight: bold;
+    
+}
+
+div img{
+   width: 40rem;
+}
+
+footer{
+    margin-top: 20rem;
+}
+
+footer p{
+    font-size: x-small;
+}
